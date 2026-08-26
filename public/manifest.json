@@ -1,0 +1,19 @@
+{
+  "name": "TrackX",
+  "short_name": "TrackX",
+  "description": "Report and discuss local community safety incidents on a shared map and board.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "orientation": "portrait-primary",
+  "categories": ["social", "utilities", "navigation"],
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

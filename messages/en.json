@@ -1,0 +1,102 @@
+{
+  "app": {
+    "name": "TrackX",
+    "tagline": "COMMUNITY · SAFETY REPORTS"
+  },
+  "nav": {
+    "map": "Map",
+    "board": "Board",
+    "search": "Search reports or places",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "login": "Log in",
+    "signup": "Sign up",
+    "logout": "Log out",
+    "menu": "Menu",
+    "theme": "Toggle theme",
+    "language": "Language"
+  },
+  "categories": {
+    "theft": "Theft",
+    "vandalism": "Vandalism",
+    "suspicious": "Suspicious activity",
+    "hazard": "Hazard",
+    "lost_found": "Lost & Found",
+    "other": "Other"
+  },
+  "map": {
+    "activeReports": "{count} active reports",
+    "updated": "Updated {seconds}s ago",
+    "useMyLocation": "Use my location",
+    "recenter": "Recenter"
+  },
+  "board": {
+    "title": "Community Board",
+    "newest": "Newest",
+    "trending": "Trending",
+    "nearMe": "Near me",
+    "loadMore": "Load more",
+    "empty": "No reports yet. Be the first to report an incident.",
+    "stats": {
+      "active": "Active Reports",
+      "total": "Total Reports",
+      "resolved": "Resolved This Week",
+      "perDay": "Avg / day"
+    }
+  },
+  "notifications": {
+    "title": "Notifications",
+    "empty": "No notifications yet.",
+    "markRead": "Mark all as read",
+    "upvote": "{actor} upvoted your report",
+    "comment": "{actor} commented on your report",
+    "new_report_nearby": "New report near you"
+  },
+  "report": {
+    "new": "New Report",
+    "post": "Post",
+    "location": "Location",
+    "category": "Category",
+    "titleLabel": "Title",
+    "titlePlaceholder": "Short summary of the incident",
+    "description": "Description",
+    "descriptionPlaceholder": "Describe what happened. Report incidents and behavior, not any person's ethnicity, religion, or nationality.",
+    "photos": "Photos",
+    "photosHint": "Up to 3 photos",
+    "tapMap": "Tap the map to set the location",
+    "upvotes": "{count} upvotes",
+    "comments": "{count} comments",
+    "flag": "Flag",
+    "writeComment": "Write a comment...",
+    "send": "Send",
+    "active": "Active",
+    "resolved": "Resolved",
+    "postedBy": "Posted by {user}",
+    "back": "Back",
+    "guidelines": {
+      "title": "Posting guidelines",
+      "body": "Report incidents, hazards, and behavior — not people by ethnicity, religion, or nationality. Do not post personal identifying information about individuals. Reports that target or harass any group will be removed.",
+      "agree": "I understand"
+    }
+  },
+  "auth": {
+    "loginTitle": "Welcome back",
+    "signupTitle": "Create your account",
+    "email": "Email",
+    "password": "Password",
+    "username": "Username",
+    "loginCta": "Log in",
+    "signupCta": "Sign up",
+    "googleCta": "Continue with Google",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "checkEmail": "Check your email to verify your account."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "cancel": "Cancel",
+    "save": "Save",
+    "retry": "Retry"
+  }
+}

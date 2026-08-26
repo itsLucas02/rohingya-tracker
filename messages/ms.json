@@ -1,0 +1,102 @@
+{
+  "app": {
+    "name": "TrackX",
+    "tagline": "KOMUNITI · LAPORAN KESELAMATAN"
+  },
+  "nav": {
+    "map": "Peta",
+    "board": "Papan",
+    "search": "Cari laporan atau tempat",
+    "notifications": "Pemberitahuan",
+    "profile": "Profil",
+    "login": "Log masuk",
+    "signup": "Daftar",
+    "logout": "Log keluar",
+    "menu": "Menu",
+    "theme": "Tukar tema",
+    "language": "Bahasa"
+  },
+  "categories": {
+    "theft": "Kecurian",
+    "vandalism": "Vandalisme",
+    "suspicious": "Aktiviti mencurigakan",
+    "hazard": "Bahaya",
+    "lost_found": "Hilang & Jumpa",
+    "other": "Lain-lain"
+  },
+  "map": {
+    "activeReports": "{count} laporan aktif",
+    "updated": "Dikemas kini {seconds}s lalu",
+    "useMyLocation": "Guna lokasi saya",
+    "recenter": "Pusatkan semula"
+  },
+  "board": {
+    "title": "Papan Komuniti",
+    "newest": "Terbaru",
+    "trending": "Popular",
+    "nearMe": "Berdekatan",
+    "loadMore": "Muat lagi",
+    "empty": "Tiada laporan lagi. Jadilah yang pertama melaporkan insiden.",
+    "stats": {
+      "active": "Laporan Aktif",
+      "total": "Jumlah Laporan",
+      "resolved": "Selesai Minggu Ini",
+      "perDay": "Purata / hari"
+    }
+  },
+  "notifications": {
+    "title": "Pemberitahuan",
+    "empty": "Tiada pemberitahuan lagi.",
+    "markRead": "Tandakan semua sebagai dibaca",
+    "upvote": "{actor} mengundi laporan anda",
+    "comment": "{actor} mengulas laporan anda",
+    "new_report_nearby": "Laporan baharu berdekatan anda"
+  },
+  "report": {
+    "new": "Laporan Baharu",
+    "post": "Hantar",
+    "location": "Lokasi",
+    "category": "Kategori",
+    "titleLabel": "Tajuk",
+    "titlePlaceholder": "Ringkasan pendek insiden",
+    "description": "Penerangan",
+    "descriptionPlaceholder": "Terangkan apa yang berlaku. Laporkan insiden dan tingkah laku, bukan bangsa, agama, atau kewarganegaraan seseorang.",
+    "photos": "Foto",
+    "photosHint": "Sehingga 3 foto",
+    "tapMap": "Ketik peta untuk menetapkan lokasi",
+    "upvotes": "{count} undian",
+    "comments": "{count} komen",
+    "flag": "Lapor",
+    "writeComment": "Tulis komen...",
+    "send": "Hantar",
+    "active": "Aktif",
+    "resolved": "Selesai",
+    "postedBy": "Dihantar oleh {user}",
+    "back": "Kembali",
+    "guidelines": {
+      "title": "Garis panduan penghantaran",
+      "body": "Laporkan insiden, bahaya, dan tingkah laku — bukan individu berdasarkan bangsa, agama, atau kewarganegaraan. Jangan siarkan maklumat peribadi individu. Laporan yang menyasarkan atau mengganggu mana-mana kumpulan akan dibuang.",
+      "agree": "Saya faham"
+    }
+  },
+  "auth": {
+    "loginTitle": "Selamat kembali",
+    "signupTitle": "Cipta akaun anda",
+    "email": "E-mel",
+    "password": "Kata laluan",
+    "username": "Nama pengguna",
+    "loginCta": "Log masuk",
+    "signupCta": "Daftar",
+    "googleCta": "Teruskan dengan Google",
+    "noAccount": "Tiada akaun?",
+    "hasAccount": "Sudah ada akaun?",
+    "checkEmail": "Semak e-mel anda untuk mengesahkan akaun."
+  },
+  "common": {
+    "loading": "Memuatkan...",
+    "error": "Sesuatu tidak kena",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "retry": "Cuba lagi"
+  }
+}
